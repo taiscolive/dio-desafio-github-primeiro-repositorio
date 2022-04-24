@@ -3,11 +3,11 @@
 
    <h4> Organização das aulas sobre os temas:
 
-   - [Introdução ao Git/GitHub]([https://github.com/taiscolive/dio-desafio-github-primeiro-repositorio/tree/main/Introdu%C3%A7%C3%A3o%20ao%20GIT%20e%20GITHUB](https://github.com/taiscolive/dio-desafio-github-primeiro-repositorio/tree/main/Introdução ao GIT e GITHUB)) 
+   - [Introdução ao Git/GitHub]([https://github.com/taiscolive/dio-desafio-github-primeiro-repositorio/tree/main/Introdu%C3%A7%C3%A3o%20ao%20GIT%20e%20GITHUB](https://github.com/taiscolive/dio-desafio-github-primeiro-repositorio/tree/main/Introdução ao GIT e GITHUB)
 
-   - [  Lógica de Programação Essencial]([https://github.com/taiscolive/dio-desafio-github-primeiro-repositorio/tree/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20Essencial](https://github.com/taiscolive/dio-desafio-github-primeiro-repositorio/tree/main/Lógica de Programação Essencial)) 
+   - [  Lógica de Programação Essencial]([https://github.com/taiscolive/dio-desafio-github-primeiro-repositorio/tree/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20Essencial](https://github.com/taiscolive/dio-desafio-github-primeiro-repositorio/tree/main/Lógica de Programação Essencial)
 
-   - [Pensamento Coputacional]([https://github.com/taiscolive/dio-desafio-github-primeiro-repositorio/blob/main/Pensamento%20Computacional/O%20que%20%C3%A9%20Pensamento%20Computacional.md](https://github.com/taiscolive/dio-desafio-github-primeiro-repositorio/blob/main/Pensamento Computacional/O que é Pensamento Computacional.md)) 
+   - [Pensamento Coputacional]([https://github.com/taiscolive/dio-desafio-github-primeiro-repositorio/blob/main/Pensamento%20Computacional/O%20que%20%C3%A9%20Pensamento%20Computacional.md](https://github.com/taiscolive/dio-desafio-github-primeiro-repositorio/blob/main/Pensamento Computacional/O que é Pensamento Computacional.md)
 
-   - [Projetos Ágeis com SCRUM]([https://github.com/taiscolive/dio-desafio-github-primeiro-repositorio/blob/main/Projetos%20%C3%81geis%20com%20SCRUM/Defini%C3%A7%C3%B5es%20sobre%20SCRUM.md](https://github.com/taiscolive/dio-desafio-github-primeiro-repositorio/blob/main/Projetos Ágeis com SCRUM/Definições sobre SCRUM.md))
+   - [Projetos Ágeis com SCRUM]([https://github.com/taiscolive/dio-desafio-github-primeiro-repositorio/blob/main/Projetos%20%C3%81geis%20com%20SCRUM/Defini%C3%A7%C3%B5es%20sobre%20SCRUM.md](https://github.com/taiscolive/dio-desafio-github-primeiro-repositorio/blob/main/Projetos Ágeis com SCRUM/Definições sobre SCRUM.md)
 
